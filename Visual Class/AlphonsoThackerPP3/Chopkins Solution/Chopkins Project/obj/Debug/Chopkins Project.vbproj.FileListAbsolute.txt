@@ -1,0 +1,24 @@
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe.config
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.pdb
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.xml
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.AssemblyReference.cache
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.Form1.resources
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.Resources.resources
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.GenerateResource.cache
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.CoreCompileInputs.cache
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.exe
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.xml
+C:\Users\Front-End\Desktop\AlphonsoThackerPP2\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.pdb
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.AssemblyReference.cache
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.Resources.resources
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.GenerateResource.cache
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.exe
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.xml
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.pdb
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.MainForm.resources
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.CoreCompileInputs.cache
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe.config
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.pdb
+C:\Users\Front-End\Desktop\AlphonsoThackerPP3\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.xml
